@@ -1,5 +1,8 @@
 # rs_preprocessing
 
+<center><img src="https://github.com/florey-neurorehab/rs_preprocessing/blob/master/figure2.png?raw=true"></center>
+
+
 Note - These scripts require the following:<br>
 
 <b>Non-Python</b><br>
